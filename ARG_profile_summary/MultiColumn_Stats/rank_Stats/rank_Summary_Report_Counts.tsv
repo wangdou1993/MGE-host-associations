@@ -1,0 +1,24 @@
+Filename	I	II	III	IV	notassessed	Total
+ARG-identification/swh-e_579360-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	16	8	9	114	3	150
+ARG-identification/TP-I_577697-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	44	20	103	349	15	531
+ARG-identification/s-e_577476-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	28	15	48	195	7	293
+ARG-identification/sh-ads_579814-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	23	4	16	43	2	88
+ARG-identification/sk-as_579852-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	10	11	7	75	2	105
+ARG-identification/s-i_578603-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	49	23	88	303	9	472
+ARG-identification/sh-as_578410-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	12	4	13	37	2	68
+ARG-identification/swh-as_577324-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	17	11	9	91	3	131
+ARG-identification/TP-E_580007-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	20	12	20	57	2	111
+ARG-identification/sk-i_578754-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	63	44	197	588	13	905
+ARG-identification/YL-ADS_577288-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	32	10	27	74	1	144
+ARG-identification/tp-ads_743148-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	28	15	23	62	5	133
+ARG-identification/YL-AS_578825-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	24	9	10	69	2	114
+ARG-identification/sk-e_577737-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	11	6	5	99	7	128
+ARG-identification/swh-ads_577436-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	25	7	32	110	3	177
+ARG-identification/swh-i_578335-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	49	29	99	358	18	553
+ARG-identification/YL-I_577304-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	51	32	135	453	17	688
+ARG-identification/sh-e_579967-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	14	6	11	119	2	152
+ARG-identification/s-as_579739-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	14	14	9	111	4	152
+ARG-identification/YL-E_579475-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	13	8	8	62	3	94
+ARG-identification/TP-AS_578565-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	7	10	10	39	2	68
+ARG-identification/sh-i_577286-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	37	19	76	252	12	396
+Global Summary	587	317	955	3660	134	5653

@@ -1,0 +1,20 @@
+Type Value	Count	Percentage(%)
+multidrug	255	37.06
+beta_lactam	80	11.63
+macrolide-lincosamide-streptogramin	76	11.05
+bacitracin	54	7.85
+polymyxin	53	7.70
+tetracycline	42	6.10
+aminoglycoside	41	5.96
+other_peptide_antibiotics	19	2.76
+trimethoprim	11	1.60
+rifamycin	10	1.45
+chloramphenicol	10	1.45
+mupirocin	9	1.31
+fosfomycin	8	1.16
+quinolone	8	1.16
+florfenicol	5	0.73
+sulfonamide	4	0.58
+vancomycin	2	0.29
+streptothricin	1	0.15
+Total	688	100.00

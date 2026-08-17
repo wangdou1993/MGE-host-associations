@@ -1,0 +1,24 @@
+Filename	genome	plasmid	viral	Total
+ARG-identification/swh-e_579360-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	103	47	0	150
+ARG-identification/TP-I_577697-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	354	177	0	531
+ARG-identification/s-e_577476-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	208	85	0	293
+ARG-identification/sh-ads_579814-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	51	37	0	88
+ARG-identification/sk-as_579852-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	75	30	0	105
+ARG-identification/s-i_578603-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	324	147	1	472
+ARG-identification/sh-as_578410-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	33	35	0	68
+ARG-identification/swh-as_577324-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	88	43	0	131
+ARG-identification/TP-E_580007-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	56	55	0	111
+ARG-identification/sk-i_578754-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	684	220	1	905
+ARG-identification/YL-ADS_577288-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	89	55	0	144
+ARG-identification/tp-ads_743148-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	68	65	0	133
+ARG-identification/YL-AS_578825-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	64	50	0	114
+ARG-identification/sk-e_577737-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	94	34	0	128
+ARG-identification/swh-ads_577436-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	120	55	2	177
+ARG-identification/swh-i_578335-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	392	160	1	553
+ARG-identification/YL-I_577304-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	505	183	0	688
+ARG-identification/sh-e_579967-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	109	43	0	152
+ARG-identification/s-as_579739-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	102	50	0	152
+ARG-identification/YL-E_579475-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	54	40	0	94
+ARG-identification/TP-AS_578565-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	32	36	0	68
+ARG-identification/sh-i_577286-checked-diamond-blastp-sarg-80-query75-custom-best-hit-add-contigs-rank-location-cov.txt	269	126	1	396
+Global Summary	3874	1773	6	5653
