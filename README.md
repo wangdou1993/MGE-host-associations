@@ -10,21 +10,23 @@ os
 csv  
 glob  
 
+
 ### R
 library(vegan)  
 library(ggplot2)  
 
+
 ## Script Descriptions and Quick Run
 
-### `PCoA-with-statistical.R`
+### `PCoA/PCoA-with-statistical.R`
 **Input files:**
 metadata.txt, subtype-ARG-OAP.txt
 
-**output:**
+**Output:**
 pcoa_ARG-OAP.pdf
 
 
-### `multiple-column-stats.py`
+### `ARG_profile_summary/multiple-column-stats.py`
 Summarizes ARG profiles by category.
 
 **Usage:**
@@ -40,10 +42,10 @@ Please enter column names to analyze (comma-separated) (press Enter to use defau
 **Output directories:**
 - `MultiColumn_Stats/location_Stats`
 - `MultiColumn_Stats/rank_Stats`
-- `MultiColumn_Stats/Type_Stats`
+- `MultiColumn_Stats/Type_Stats`  
 
 
-### `Summary_ARG_host.py`
+### `ARG_host_summary/Summary_ARG_host.py`
 
 Summarizes ARG host abundance at different taxonomic levels.
 
@@ -59,10 +61,3 @@ python3 summary_ARG_host.py
 - `1-amr-host-summary`
 - `2-combine-all-sample-taxa`
 - `3-summarize-di-taxa`
-
-
-
-
- 
-
-
