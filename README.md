@@ -4,7 +4,7 @@ Scripts for data processing and figure generation to reproduce the results of th
 
 ## Dependencies
 ### Python/Python3
-openpyxl (python3 -m pip install openpyxl)
+openpyxl (python3 -m pip install openpyxl)  
 pandas  
 os  
 csv  
@@ -14,9 +14,14 @@ glob
 library(vegan)  
 library(ggplot2)  
 
-### `multiple-column-stats.py`
+## Script Descriptions and Quick Run
 
+### `PCoA-with-statistical.R`
+**Input files:**
+metadata.txt, subtype-ARG-OAP.txt
 
+**output:**
+pcoa_ARG-OAP.pdf
 
 
 ### `multiple-column-stats.py`
@@ -37,8 +42,6 @@ Please enter column names to analyze (comma-separated) (press Enter to use defau
 - `MultiColumn_Stats/rank_Stats`
 - `MultiColumn_Stats/Type_Stats`
 
-
-## Script Descriptions and Quick Run
 
 ### `Summary_ARG_host.py`
 
