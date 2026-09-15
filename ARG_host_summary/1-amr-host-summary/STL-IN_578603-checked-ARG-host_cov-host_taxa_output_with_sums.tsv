@@ -1,0 +1,17 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	283.44447060000005	p__Actinomycetota	62.8573	c__Actinomycetia	62.8573	o__Mycobacteriales	62.8573	f__Mycobacteriaceae	62.8573	g__Mycobacterium	62.8573	s__	159.0809243
+		p__Pseudomonadota	172.19075449999997	c__Gammaproteobacteria	165.69226179999998	o__Enterobacterales_A	35.846867	f__Aeromonadaceae	35.846867	g__Aeromonas	35.846867	s__Aeromonas caviae	35.846867
+		p__Bacteroidota	45.176444000000004	c__Bacteroidia	45.176444000000004	o__Burkholderiales	112.9064508	f__Burkholderiaceae_B	106.14290150000001	g__Brachymonas	9.005771	s__Brachymonas sp018054915	9.005771
+		p__Planctomycetota	3.2199721	c__Phycisphaerae	3.2199721	o__Chitinophagales	22.965528	f__Saprospiraceae	22.965528	g__Acidovorax_C	24.208214	s__Rubrivivax_A sp019635285	28.376158
+				c__Alphaproteobacteria	6.4984927	o__Pseudomonadales	16.938944	f__Moraxellaceae	16.938944	g__Rubrivivax_A	28.376158	s__Alicycliphilus sp018054745	29.594336
+						o__Phycisphaerales	3.2199721	f__UBA1924	3.2199721	g__Alicycliphilus	29.594336	s__Bacteroides_I graminisolvens	10.172118
+						o__Bacteroidales	14.776864999999999	f__Bacteroidaceae	14.776864999999999	g__Pelomonas	8.218984	s__Nitrosomonas sp008015595	6.7635493
+						o__Flavobacteriales	7.434051	f__Flavobacteriaceae	7.434051	g__UBA3362	22.965528	s__Phocaeicola vulgatus	4.604747
+						o__Sphingomonadales	6.4984927	f__Nitrosomonadaceae	6.7635493	g__Moraxella_A	16.938944		
+								f__Sphingomonadaceae	6.4984927	g__JADLFW01	3.2199721		
+										g__Bacteroides_I	10.172118		
+										g__Giesbergeria	6.7394385		
+										g__Flavobacterium	7.434051		
+										g__Nitrosomonas	6.7635493		
+										g__Sphingobium	6.4984927		
+										g__Phocaeicola	4.604747		

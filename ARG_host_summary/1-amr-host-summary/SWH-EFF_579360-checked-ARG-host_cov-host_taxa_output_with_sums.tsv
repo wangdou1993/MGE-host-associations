@@ -1,0 +1,12 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	96.79660409999998	p__Actinomycetota	26.5027445	c__Actinomycetia	26.5027445	o__Mycobacteriales	26.5027445	f__Mycobacteriaceae	26.5027445	g__Mycobacterium	22.64447	s__	35.303848
+		p__Pseudomonadota	70.2938596	c__Gammaproteobacteria	62.65732539999999	o__Burkholderiales	43.516017399999996	f__Burkholderiaceae_B	6.027552	g__Giesbergeria	6.027552	s__Giesbergeria sp010020825	6.027552
+				c__Alphaproteobacteria	7.6365342	o__Pseudomonadales	19.141308	f__Aquaspirillaceae	3.5879507	g__Rivicola	3.5879507	s__Rivicola pingtungensis	3.5879507
+						o__Sphingomonadales	7.6365342	f__Moraxellaceae	19.141308	g__Acinetobacter	19.141308	s__Acinetobacter sp003987695	19.141308
+								f__Rhodocyclaceae	29.886280199999998	g__Thauera	15.6220255	s__Thauera aminoaromatica	15.6220255
+								f__Nitrosomonadaceae	4.0142345	g__Nitrosomonas	4.0142345	s__Skermania piniformis	3.8582745
+								f__Sphingomonadaceae	7.6365342	g__JADCGM01	3.2770538	s__Sphingobium xenophagum	4.3594804
+										g__Skermania	3.8582745	s__SSSZ01 sp009469685	8.896165
+										g__Sphingobium	4.3594804		
+										g__SSSZ01	8.896165		
+										g__Azospira_A	5.3680897		

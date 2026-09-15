@@ -1,0 +1,13 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	155.4739764	p__Bacteroidota	16.329584	c__Bacteroidia	16.329584	o__Chitinophagales	7.858313	f__Saprospiraceae	7.858313	g__OLB8	7.858313	s__OLB8 sp001567405	7.858313
+		p__Pseudomonadota	130.6691641	c__Gammaproteobacteria	126.1053957	o__Burkholderiales	81.9204001	f__Burkholderiaceae_B	34.2121801	g__Ottowia	21.60578	s__Ottowia sp024235955	21.60578
+		p__Verrucomicrobiota	8.475228300000001	c__Alphaproteobacteria	4.5637684	o__Chromatiales	19.60854	f__Sedimenticolaceae	19.60854	g__Hydrogenophaga	6.2443314	s__	55.1535394
+				c__Kiritimatiellia	4.234745	o__Sphingomonadales	4.5637684	f__Sphingomonadaceae	4.5637684	g__CAISIP01	6.3620687	s__CAISIP01 sp024236015	6.3620687
+				c__Verrucomicrobiae	4.2404833	o__Flavobacteriales	8.471271	f__Rhodocyclaceae	47.70822	g__41T-STBD-0c-01a	19.60854	s__JACKKV01 sp024236235	4.5637684
+						o__LD1-PB3_A	4.234745	f__Parvicellaceae	8.471271	g__JACKKV01	4.5637684	s__Thauera sp003963015	47.70822
+						o__Verrucomicrobiales	4.2404833	f__CAIVKH01	4.234745	g__Thauera	47.70822	s__JACKPT01 sp024233345	4.234745
+						o__Xanthomonadales	3.7470586	f__DEV007	4.2404833	g__Parvicella	8.471271	s__JACKQE01 sp024233005	4.2404833
+						o__Competibacterales	20.829397	f__Rhodanobacteraceae	3.7470586	g__JACKPT01	4.234745	s__Dokdonella sp019634795	3.7470586
+								f__Competibacteraceae	20.829397	g__JACKQE01	4.2404833		
+										g__Dokdonella	3.7470586		
+										g__Competibacter_A	20.829397		

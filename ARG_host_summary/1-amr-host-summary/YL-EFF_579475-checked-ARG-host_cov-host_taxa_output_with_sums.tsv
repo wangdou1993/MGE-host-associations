@@ -1,0 +1,16 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	1272.1075749	p__Pseudomonadota	1065.624761	c__Alphaproteobacteria	17.57763	o__Sphingomonadales	13.7877144	f__Sphingomonadaceae	13.7877144	g__Sphingobium	13.7877144	s__Sphingobium sp020446425	4.8898654
+		p__Actinomycetota	105.84982099999999	c__Actinomycetia	105.84982099999999	o__Mycobacteriales	105.84982099999999	f__Mycobacteriaceae	105.84982099999999	g__Mycobacterium	105.84982099999999	s__	1144.4321396
+		p__Planctomycetota	8.485718299999998	c__Gammaproteobacteria	1048.047131	o__Thiotrichales	990.073318	f__Thiotrichaceae	990.073318	g__Thiolinea	970.4996699999999	s__Mycobacterium austroafricanum	8.980511
+		p__Bacteroidota	92.1472746	c__Planctomycetia	8.485718299999998	o__Pseudomonadales	18.175252	f__Oleiphilaceae	13.806947	g__JADJWY01	13.806947	s__Thiothrix nivea	19.573648
+				c__Bacteroidia	92.1472746	o__Planctomycetales	8.485718299999998	f__Planctomycetaceae	8.485718299999998	g__SXXK01	5.0568686	s__Giesbergeria sp023954095	10.161659
+						o__Burkholderiales	39.798561	f__Burkholderiaceae_B	19.411209	g__Thiothrix	19.573648	s__Bacteroides_I graminisolvens	4.903226
+						o__Bacteroidales	4.903226	f__Bacteroidaceae	4.903226	g__Giesbergeria	19.411209	s__Albidovulum sp024236495	3.7899156
+						o__Rhodobacterales	3.7899156	f__Rhodobacteraceae	3.7899156	g__Bacteroides_I	4.903226	s__Sphingobium yanoikuyae	8.897849
+						o__Flavobacteriales	79.897202	f__Rhodocyclaceae	20.387352	g__Albidovulum	3.7899156	s__UBA5078 sp024234325	4.368305
+						o__Chitinophagales	7.3468466	f__Pseudohongiellaceae	4.368305	g__Zoogloea	20.387352	s__Thiolinea sp020442915	42.08521
+								f__Flavobacteriaceae	63.71918	g__UBA5078	4.368305	s__JACKHO01 sp020426515	3.4288497
+								f__Saprospiraceae	7.3468466	g__JACKHO01	3.4288497	s__Giesbergeria sp010020825	9.24955
+								f__Crocinitomicaceae	16.178022	g__Flavobacterium	63.71918	s__OLB8 sp001567405	7.3468466
+										g__OLB8	7.3468466		
+										g__Fluviicola	16.178022		

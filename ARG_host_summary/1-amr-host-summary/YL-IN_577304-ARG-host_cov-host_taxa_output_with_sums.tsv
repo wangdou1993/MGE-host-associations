@@ -1,0 +1,22 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	596.5634888	p__Bacteroidota	43.7230345	c__Bacteroidia	43.7230345	o__Bacteroidales	43.7230345	f__Bacteroidaceae	43.7230345	g__Phocaeicola	13.6310625	s__Phocaeicola vulgatus	13.6310625
+		p__Actinomycetota	158.664859	c__Acidimicrobiia	98.177505	o__Acidimicrobiales	98.177505	f__Microtrichaceae	98.177505	g__AWTP1-35	98.177505	s__AWTP1-35 sp003962875	98.177505
+		p__Pseudomonadota	226.15966280000004	c__Actinomycetia	60.487353999999996	o__Mycobacteriales	60.487353999999996	f__Mycobacteriaceae	60.487353999999996	g__Mycobacterium	60.487353999999996	s__	96.0082395
+		p__Bacillota_C	14.9769027	c__Gammaproteobacteria	202.9855508	o__Burkholderiales	63.504927	f__Burkholderiaceae_B	55.122747000000004	g__Ottowia	30.117565	s__Alicycliphilus sp018054745	8.73188
+		p__Thermotogota	59.7235	c__Negativicutes	14.9769027	o__Acidaminococcales	6.9060807	f__Acidaminococcaceae	6.9060807	g__Alicycliphilus	8.73188	s__Ottowia sp024235955	12.606475
+		p__Bacillota	79.326485	c__Thermotogae	59.7235	o__Selenomonadales	8.070822	f__Selenomonadaceae	8.070822	g__Giesbergeria	16.273302	s__Giesbergeria sp010020825	16.273302
+		p__Bacillota_A	5.8753138	c__Bacilli	79.326485	o__Enterobacterales_A	126.0624008	f__Aeromonadaceae	108.66003	g__Bacteroides_I	22.469048	s__Bacteroides_I graminisolvens	22.469048
+		p__Bacillota_B	8.113731	c__Alphaproteobacteria	23.174111999999997	o__Petrotogales	59.7235	f__Kosmotogaceae	59.7235	g__RZYP01	6.9060807	s__Mycobacterium austroafricanum	13.352124
+				c__Clostridia	5.8753138	o__Lactobacillales	79.326485	f__Neisseriaceae	8.38218	g__Megamonas	8.070822	s__Megamonas funiformis	8.070822
+				c__Syntrophomonadia	8.113731	o__Rhodobacterales	16.120644	f__Streptococcaceae	79.326485	g__Aeromonas	108.66003	s__Aeromonas caviae	108.66003
+						o__Lachnospirales	5.8753138	f__Rhodobacteraceae	16.120644	g__Mesotoga	59.7235	s__Mesotoga prima	59.7235
+						o__Rhizobiales	7.053468	f__Lachnospiraceae	5.8753138	g__Neisseria	8.38218	s__Neisseria suis	8.38218
+						o__Pseudomonadales	13.418223	f__Aestuariivirgaceae	7.053468	g__Streptococcus	79.326485	s__Streptococcus suis_AA	79.326485
+						o__Syntrophomonadales	8.113731	f__Pasteurellaceae	17.4023708	g__Bacteroides	7.622924	s__Bacteroides uniformis	7.622924
+								f__Moraxellaceae	13.418223	g__Albidovulum	16.120644	s__Albidovulum sp024236495	16.120644
+								f__Syntrophomonadaceae	8.113731	g__Agathobacter	5.8753138	s__Agathobacter rectalis	5.8753138
+										g__JAEUMG01	7.053468	s__Acinetobacter towneri	13.418223
+										g__Mannheimia	5.9611278	s__UBA1368 sp002305965	8.113731
+										g__Acinetobacter	13.418223		
+										g__UBA1368	8.113731		
+										g__Chelonobacter	11.441243		

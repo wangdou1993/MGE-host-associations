@@ -1,0 +1,17 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	218.77805650000002	p__Pseudomonadota	100.0214716	c__Alphaproteobacteria	27.96796	o__Rhodobacterales	27.96796	f__Rhodobacteraceae	27.96796	g__Paracoccus	27.96796	s__	112.1426859
+		p__Actinomycetota	29.551586	c__Actinomycetia	29.551586	o__Mycobacteriales	29.551586	f__Mycobacteriaceae	29.551586	g__Rhodococcus	29.551586	s__Rhodococcus ruber	29.551586
+		p__Synergistota	4.658987	c__Synergistia	4.658987	o__Synergistales	4.658987	f__Dethiosulfovibrionaceae	4.658987	g__Dethiosulfovibrio	4.658987	s__Bacteroides uniformis	5.4087653
+		p__Bacteroidota	36.7541003	c__Gammaproteobacteria	72.05351160000001	o__Enterobacterales_A	10.084274	f__Pasteurellaceae	10.084274	g__Mannheimia	10.084274	s__Laribacter hongkongensis	4.29158
+		p__Fibrobacterota	8.6205376	c__Bacteroidia	36.7541003	o__Bacteroidales	36.7541003	f__Bacteroidaceae	36.7541003	g__Bacteroides	5.4087653	s__Bacteroides_I graminisolvens	31.345335
+		p__Bacillota_A	39.171374	c__Fibrobacteria	8.6205376	o__Burkholderiales	40.083593	f__Aquaspirillaceae	4.29158	g__Laribacter	4.29158	s__HKST-UBA178 sp020445405	8.064209
+				c__Clostridia	39.171374	o__JAAEPA01	7.5555086	f__JAAEPA01	7.5555086	g__JAAEPA01	7.5555086	s__Fibro-01 sp001462345	3.0621603
+						o__Fibrobacterales	8.6205376	f__Fibrobacteraceae	8.6205376	g__	37.8979533	s__Thiothrix nivea	6.265927
+						o__Lachnospirales	32.339576	f__Neisseriaceae	7.7666379999999995	g__Neisseria	7.7666379999999995	s__Ottowia sp024235955	9.707648
+						o__Chromatiales	8.064209	f__Lachnospiraceae	32.339576	g__Bacteroides_I	31.345335	s__Ottowia sp018240925	8.93816
+						o__Oscillospirales	6.831798	f__Sedimenticolaceae	8.064209	g__HKST-UBA178	8.064209		
+						o__Thiotrichales	6.265927	f__Ruminococcaceae	6.831798	g__JAEZYS01	6.831798		
+								f__Burkholderiaceae_B	28.025375	g__Fibro-01	3.0621603		
+								f__Thiotrichaceae	6.265927	g__Brachymonas	9.379567		
+										g__Thiothrix	6.265927		
+										g__Ottowia	18.645808000000002		

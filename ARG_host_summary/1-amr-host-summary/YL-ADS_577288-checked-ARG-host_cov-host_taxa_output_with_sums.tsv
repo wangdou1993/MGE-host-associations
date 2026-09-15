@@ -1,0 +1,15 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	240.4225045	p__Bacillota_A	7.5782776	c__Clostridia	7.5782776	o__Lachnospirales	7.5782776	f__Lachnospiraceae	7.5782776	g__JAGPKJ01	7.5782776	s__JAGPKJ01 sp018053995	7.5782776
+		p__Pseudomonadota	132.976386	c__Gammaproteobacteria	132.976386	o__Burkholderiales	95.565099	f__Gallionellaceae	4.461982	g__Nitrotoga	4.461982	s__Nitrotoga fabula	4.461982
+		p__Planctomycetota	5.1996756	c__Planctomycetia	5.1996756	o__Planctomycetales	5.1996756	f__Burkholderiaceae_B	91.103117	g__Comamonas_C	24.047213	s__Comamonas_C sp001724135	24.047213
+		p__Bacteroidota	87.0300776	c__Bacteroidia	87.0300776	o__AKYH767-A	63.104755	f__Planctomycetaceae	5.1996756	g__Ottowia	45.24481	s__	79.3958242
+		p__Bacillota_C	3.6314921	c__Negativicutes	3.6314921	o__Thiotrichales	37.411287	f__OLB10	63.104755	g__Giesbergeria	21.811094	s__Giesbergeria sp010020825	21.811094
+		p__Bacillota_B	4.0065956	c__Syntrophomonadia	4.0065956	o__Acidaminococcales	3.6314921	f__Thiotrichaceae	37.411287	g__SXXK01	5.1996756	s__OLB10 sp001567275	63.104755
+						o__Syntrophomonadales	4.0065956	f__Acidaminococcaceae	3.6314921	g__OLB10	63.104755	s__Thiolinea sp020442915	15.460388
+						o__Bacteroidales	20.525816000000003	f__Syntrophomonadaceae	4.0065956	g__Thiolinea	37.411287	s__UBA4844 sp012729715	4.0065956
+						o__Chitinophagales	3.3995066	f__Bacteroidaceae	7.08003	g__RZYP01	3.6314921	s__Bacteroides_I graminisolvens	3.7110825
+								f__Prolixibacteraceae	13.445786	g__UBA4844	4.0065956	s__UBA1413 sp012729335	13.445786
+								f__JADIYW01	3.3995066	g__Bacteroides_I	3.7110825	s__JADJSS01 sp020636535	3.3995066
+										g__UBA1413	13.445786		
+										g__Prevotella	3.3689475		
+										g__JADJSS01	3.3995066		

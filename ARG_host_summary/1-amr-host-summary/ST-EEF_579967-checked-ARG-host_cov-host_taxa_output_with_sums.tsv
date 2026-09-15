@@ -1,0 +1,16 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	318.7680276	p__Actinomycetota	274.2057305	c__Actinomycetia	274.2057305	o__Mycobacteriales	261.6042895	f__Mycobacteriaceae	261.6042895	g__Mycobacterium	203.262021	s__Mycobacterium senegalense	21.718456
+		p__Pseudomonadota	44.5622971	c__Alphaproteobacteria	11.958916	o__Actinomycetales	12.601441	f__Microbacteriaceae	12.601441	g__Nocardia	19.79498	s__Mycobacterium fortuitum	26.330687
+				c__Gammaproteobacteria	32.60338110000001	o__Rhizobiales	11.958916	f__Hyphomicrobiaceae	9.572015	g__Gordonia	38.5472885	s__Nocardia cyriacigeorgica_B	19.79498
+						o__Pseudomonadales	2.779505	f__Pseudomonadaceae	2.779505	g__Microbacterium	12.601441	s__Mycobacterium sp020438895	17.563961
+						o__JAAEPA01	9.340178	f__JAAEPA01	9.340178	g__JAEUMD01	9.572015	s__Gordonia sihwensis	6.8357215
+						o__Chromatiales	3.197676	f__Chromatiaceae	3.197676	g__Pseudomonas_E	2.779505	s__Mycobacterium insubricum	15.101965
+						o__Burkholderiales	17.2860221	f__Burkholderiaceae_B	11.5295851	g__JAAEPA01	9.340178	s__	103.96315339999998
+								f__Rhodocyclaceae	5.756437	g__Thiocapsa	3.197676	s__Microbacterium sp002313585	12.601441
+								f__Xanthobacteraceae	2.386901	g__Aquabacterium_A	3.9734082	s__Mycobacterium sp020438845	41.45783
+										g__Thauera	5.756437	s__JAEUMD01 sp020638055	9.572015
+										g__Hydrogenophaga	3.9758682	s__Pseudomonas_E leptonychotis	2.779505
+										g__Ottowia	3.5803087	s__Gordonia polyisoprenivorans	13.965284
+										g__Xanthobacter	2.386901	s__Thauera sp003963015	5.756437
+												s__Ottowia sp018240925	3.5803087
+												s__Gordonia malaquae	17.746283

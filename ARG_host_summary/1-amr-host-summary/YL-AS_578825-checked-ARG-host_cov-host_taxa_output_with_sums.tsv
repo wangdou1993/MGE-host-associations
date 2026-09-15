@@ -1,0 +1,16 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	346.47321079999995	p__Pseudomonadota	274.4461953	c__Gammaproteobacteria	235.01757859999998	o__Burkholderiales	65.2037966	f__Burkholderiaceae_B	65.2037966	g__Ottowia	40.087385999999995	s__Ottowia sp024235955	14.278298
+		p__Bacteroidota	46.683183	c__Bacteroidia	46.683183	o__Chitinophagales	46.683183	f__JADIYW01	22.315086	g__JADJSS01	22.315086	s__	110.0909072
+		p__Planctomycetota	9.381433	c__Alphaproteobacteria	39.4286167	o__Sphingomonadales	13.148789	f__Sphingomonadaceae	13.148789	g__Comamonas_C	12.658636	s__JADJSS01 sp020636535	22.315086
+		p__Actinomycetota	15.9623995	c__Planctomycetia	9.381433	o__Competibacterales	89.36404	f__Competibacteraceae	89.36404	g__Sphingobium	13.148789	s__Comamonas_C sp001724135	12.658636
+				c__Acidimicrobiia	15.9623995	o__Planctomycetales	9.381433	f__Planctomycetaceae	9.381433	g__Plasticicumulans	89.36404	s__Sphingobium sp020446425	13.148789
+						o__Thiotrichales	75.19265999999999	f__Thiotrichaceae	75.19265999999999	g__SXXK01	9.381433	s__Plasticicumulans sp003962905	89.36404
+						o__Rhodobacterales	26.2798277	f__Rhodobacteraceae	26.2798277	g__Thiolinea	40.368727	s__OLB8 sp001567405	24.368097
+						o__Acidimicrobiales	15.9623995	f__Ilumatobacteraceae	15.9623995	g__Pseudogemmobacter	7.4358397	s__Albidovulum sp024236495	18.843988
+						o__Xanthomonadales	5.257082	f__Saprospiraceae	24.368097	g__UBA668	15.9623995	s__Thiothrix nivea	34.823933
+								f__Xanthomonadaceae	5.257082	g__OLB8	24.368097	s__CAISIP01 sp024236015	6.5814366
+										g__Aquimonas	5.257082		
+										g__Albidovulum	18.843988		
+										g__Thiothrix	34.823933		
+										g__CAISIP01	6.5814366		
+										g__Rubrivivax	5.876338		

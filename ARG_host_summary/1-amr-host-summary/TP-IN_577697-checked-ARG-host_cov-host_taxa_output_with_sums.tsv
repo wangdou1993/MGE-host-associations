@@ -1,0 +1,24 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	538.7214064	p__Pseudomonadota	239.5325454	c__Gammaproteobacteria	209.09999330000005	o__Burkholderiales	40.3875383	f__Neisseriaceae	5.15076	g__Neisseria	5.15076	s__	291.65233059999997
+		p__Actinomycetota	209.7833	c__Actinomycetia	209.7833	o__Enterobacterales_A	75.99411199999999	f__Aeromonadaceae	47.831646	g__Aeromonas	47.831646	s__Aeromonas caviae	47.831646
+		p__Bacteroidota	64.994742	c__Bacteroidia	64.994742	o__Pseudomonadales	42.421767	f__Burkholderiaceae_B	31.1481796	g__Ottowia	19.20439	s__Ottowia sp024235955	19.20439
+		p__Verrucomicrobiota	3.7950363	c__Verrucomicrobiae	3.7950363	o__Mycobacteriales	209.7833	f__Pseudomonadaceae	15.488776	g__Hydrogenophaga	5.0962086	s__Pseudomonas_E fluvialis	15.488776
+		p__Bacillota_A	6.0807347	c__Alphaproteobacteria	30.4325521	o__GCA-2729495	11.351732	f__Mycobacteriaceae	209.7833	g__Pseudomonas_E	15.488776	s__Vibrio fluvialis	18.755556
+		p__Bacillota	14.535048	c__Clostridia	6.0807347	o__Chitinophagales	7.92925	f__Vibrionaceae	18.755556	g__Mycobacterium	209.7833	s__SHZI01 sp024234935	11.351732
+				c__Bacilli	14.535048	o__Chromatiales	18.166365	f__GCA-2729495	11.351732	g__Vibrio	18.755556	s__OLB8 sp001567405	7.92925
+						o__UBA9214	13.325873	f__Saprospiraceae	7.92925	g__SHZI01	11.351732	s__41T-STBD-0c-01a sp024235395	18.166365
+						o__Verrucomicrobiales	3.7950363	f__Sedimenticolaceae	18.166365	g__Brachymonas	6.847581	s__JACKQE01 sp024233005	3.7950363
+						o__Rhodobacterales	26.68799	f__Pasteurellaceae	9.40691	g__OLB8	7.92925	s__Lachnospira eligens_A	6.0807347
+						o__Lachnospirales	6.0807347	f__UBA9214	13.325873	g__41T-STBD-0c-01a	18.166365	s__Bacteroides uniformis	20.49159
+						o__Bacteroidales	57.06549199999999	f__DEV007	3.7950363	g__Mannheimia	9.40691	s__Sutterella wadsworthensis_A	4.0885987
+						o__Competibacterales	7.452606	f__Moraxellaceae	26.932991	g__UBA9214	13.325873	s__JACKKV01 sp024236235	3.7445621
+						o__Sphingomonadales	3.7445621	f__Rhodobacteraceae	26.68799	g__JACKQE01	3.7950363	s__Phocaeicola vulgatus	36.573902
+						o__Lactobacillales	14.535048	f__Lachnospiraceae	6.0807347	g__Moraxella	26.932991	s__Moraxella porci	19.031889
+								f__Bacteroidaceae	57.06549199999999	g__Paracoccus	26.68799	s__Enterococcus_F sp017426705	14.535048
+								f__Burkholderiaceae_A	4.0885987	g__Lachnospira	6.0807347		
+								f__Competibacteraceae	7.452606	g__Bacteroides	20.49159		
+								f__Sphingomonadaceae	3.7445621	g__Sutterella	4.0885987		
+								f__Enterococcaceae	14.535048	g__Competibacter_A	7.452606		
+										g__JACKKV01	3.7445621		
+										g__Phocaeicola	36.573902		
+										g__Enterococcus_F	14.535048		

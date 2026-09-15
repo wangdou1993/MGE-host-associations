@@ -1,0 +1,16 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	207.81839480000002	p__Actinomycetota	39.876896	c__Actinomycetia	39.876896	o__Mycobacteriales	39.876896	f__Mycobacteriaceae	39.876896	g__Mycobacterium	39.876896	s__	145.81458880000002
+		p__Pseudomonadota	102.1742176	c__Gammaproteobacteria	71.3489084	o__Pseudomonadales	2.984412	f__Moraxellaceae	2.984412	g__JAGLBJ01	2.984412	s__OLB8 sp018057925	31.8077
+		p__Bacteroidota	57.038149000000004	c__Alphaproteobacteria	30.8253092	o__Burkholderiales	61.8387984	f__Burkholderiaceae_B	29.8639994	g__Pelomonas	20.687798	s__OLB8 sp001567405	8.528976
+		p__Gemmatimonadota	6.3136945	c__Bacteroidia	57.038149000000004	o__Rhodobacterales	3.9473672	f__Rhodobacteraceae	3.9473672	g__TMP-24	3.9473672	s__Nitrosomonas sp008015595	21.66713
+		p__Spirochaetota	2.4154377	c__Gemmatimonadetes	6.3136945	o__AKYH767	16.701473	f__B-17BO	16.701473	g__UBA2475	16.701473		
+				c__Leptospirae	2.4154377	o__Rhizobiales	17.448263	f__Rhizobiaceae	17.448263	g__JADJTR01	17.448263		
+						o__Chitinophagales	40.336676	f__Saprospiraceae	40.336676	g__JAHBZM01	4.940106		
+						o__Sphingomonadales	9.429679	f__Casimicrobiaceae	10.307669	g__OLB8	40.336676		
+						o__Xanthomonadales	6.525698	f__Sphingomonadaceae	9.429679	g__VBCG01	10.307669		
+						o__Gemmatimonadales	6.3136945	f__Xanthomonadaceae	6.525698	g__Sphingobium	9.429679		
+						o__Turneriellales	2.4154377	f__Gemmatimonadaceae	6.3136945	g__Rhodoferax_C	4.2360954		
+								f__Turneriellaceae	2.4154377	g__Thermomonas	6.525698		
+								f__Nitrosomonadaceae	21.66713	g__SCN-70-22	6.3136945		
+										g__Turneriella	2.4154377		
+										g__Nitrosomonas	21.66713		

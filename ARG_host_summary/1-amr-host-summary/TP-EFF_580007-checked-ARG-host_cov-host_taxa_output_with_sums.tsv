@@ -1,0 +1,18 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	233.9381855	p__Pseudomonadota	45.3761052	c__Gammaproteobacteria	45.3761052	o__Pseudomonadales	11.3031292	f__Oleiphilaceae	6.9840927	g__JACKOD01	3.1667032	s__JACKOD01 sp024234505	3.1667032
+		p__Bacteroidota	19.059884099999998	c__Bacteroidia	19.059884099999998	o__Chitinophagales	7.3850527	f__Saprospiraceae	7.3850527	g__OLB8	7.3850527	s__OLB8 sp001567405	7.3850527
+		p__Actinomycetota	148.528019	c__Actinomycetia	148.528019	o__Mycobacteriales	148.528019	f__Mycobacteriaceae	148.528019	g__Mycobacterium	148.528019	s__	176.25271270000002
+		p__Bacillota_A	8.3067832	c__Clostridia	8.3067832	o__Oscillospirales	4.5205793	f__Ruminococcaceae	4.5205793	g__JAEXNS01	4.5205793	s__Mycobacterium insubricum	8.576179
+		p__Myxococcota	4.7015767	c__Polyangia	4.7015767	o__Saccharofermentanales	3.7862039	f__Saccharofermentanaceae	3.7862039	g__Saccharofermentans	3.7862039	s__Saccharofermentans sp012728275	3.7862039
+		p__Omnitrophota	4.2544127	c__Koll11	4.2544127	o__Burkholderiales	21.34768	f__Burkholderiaceae_B	21.34768	g__Ottowia	15.986609	s__Ottowia sp024235955	15.986609
+		p__Chloroflexota	3.7114046	c__Anaerolineae	3.7114046	o__Xanthomonadales	6.479774	f__Xanthomonadaceae	6.479774	g__Hydrogenophaga	5.361071	s__JACKOX01 sp024233975	6.479774
+						o__Flavobacteriales	8.3258698	f__Parvicellaceae	6.2262707	g__JACKOX01	6.479774	s__JACKEA01 sp020633235	4.7015767
+						o__Chromatiales	6.245522	f__GCA-002722245	2.0995991	g__Parvicella	6.2262707	s__VMDK01 sp020635435	3.3489616
+						o__Polyangiales	4.7015767	f__Sedimenticolaceae	6.245522	g__	2.0995991	s__JAGOSC01 sp020429915	4.2544127
+						o__NS11-12g	3.3489616	f__Polyangiaceae	4.7015767	g__JADJWY01	3.8173895		
+						o__Zapsychrales	4.2544127	f__Ketobacteraceae	4.3190365	g__41T-STBD-0c-01a	6.245522		
+						o__Promineofilales	3.7114046	f__UBA9320	3.3489616	g__JACKEA01	4.7015767		
+								f__Zapsychraceae	4.2544127	g__Ch67	4.3190365		
+								f__Promineofilaceae	3.7114046	g__VMDK01	3.3489616		
+										g__JAGOSC01	4.2544127		
+										g__JACSRF01	3.7114046		

@@ -1,0 +1,18 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	422.78823099999994	p__Pseudomonadota	304.96545690000005	c__Gammaproteobacteria	44.849297899999996	o__Burkholderiales	44.849297899999996	f__Burkholderiaceae_B	41.7143609	g__JAABQG01	5.2137437	s__	158.02897230000002
+		p__Bacillota	42.700459300000006	c__Alphaproteobacteria	260.11615900000004	o__Sphingomonadales	254.19024000000002	f__Sphingomonadaceae	254.19024000000002	g__Giesbergeria	6.040316	s__Giesbergeria sp010020825	6.040316
+		p__Actinomycetota	47.139347	c__Bacilli	42.700459300000006	o__Bacillales	33.9300823	f__DSM-18226	5.5711913	g__Ottowia	20.6427677	s__Ottowia sp020848515	6.4096117
+		p__Myxococcota	8.999629800000001	c__Actinomycetia	47.139347	o__Paenibacillales	5.447721	f__Paenibacillaceae	5.447721	g__Sphingobium	254.19024000000002	s__Ottowia sp001897615	14.233156
+		p__Bacteroidota	9.535238	c__Polyangia	8.999629800000001	o__Mycobacteriales	32.844904	f__Mycobacteriaceae	32.844904	g__Neobacillus	5.5711913	s__Sphingobium limneticum	210.32246
+		p__Nitrospirota	9.4481	c__Bacteroidia	9.535238	o__Nannocystales	5.1046734	f__Nannocystaceae	5.1046734	g__Paenibacillus	5.447721	s__Paenibacillus chibensis	5.447721
+				c__Nitrospiria	9.4481	o__Propionibacteriales	14.294443	f__Nocardioidaceae	14.294443	g__Mycobacterium	32.844904	s__OLB8 sp001567405	9.535238
+						o__Rhodobacterales	5.925919	f__Rhodobacteraceae	5.925919	g__JADJRG01	5.1046734	s__Nitrospira_A sp009594855	9.4481
+						o__Chitinophagales	9.535238	f__Saprospiraceae	9.535238	g__Nocardioides	14.294443	s__Brevibacillus centrosporus	3.322656
+						o__Polyangiales	3.8949564	f__Ga0077539	3.8949564	g__QY30	5.925919		
+						o__Nitrospirales	9.4481	f__Nitrospiraceae	9.4481	g__OLB8	9.535238		
+						o__Brevibacillales	3.322656	f__Bacillaceae_G	28.358891	g__CAISKJ01	3.8949564		
+								f__Rhodocyclaceae	3.134937	g__Nitrospira_A	9.4481		
+								f__Brevibacillaceae	3.322656	g__Gottfriedia	28.358891		
+										g__AWTP1-18	3.134937		
+										g__Rubrivivax	9.8175335		
+										g__Brevibacillus	3.322656		

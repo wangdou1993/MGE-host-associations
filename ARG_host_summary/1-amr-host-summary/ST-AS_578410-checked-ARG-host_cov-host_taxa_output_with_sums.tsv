@@ -1,0 +1,9 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	139.73397720000003	p__Pseudomonadota	134.4367884	c__Gammaproteobacteria	112.39348289999998	o__Burkholderiales	33.6647454	f__Burkholderiaceae_B	33.6647454	g__Ottowia	28.041874999999997	s__Ottowia sp024235955	15.209859
+		p__Verrucomicrobiota	5.2971888	c__Alphaproteobacteria	22.043305500000002	o__Rhodobacterales	10.757763	f__Rhodobacteraceae	10.757763	g__Albidovulum	10.757763	s__Ottowia sp018240925	12.832016
+				c__Kiritimatiellia	5.2971888	o__Pseudomonadales	37.685028	f__Halieaceae	37.685028	g__Halioglobus	37.685028	s__Albidovulum sp024236495	10.757763
+						o__Chromatiales	31.211086	f__Sedimenticolaceae	31.211086	g__41T-STBD-0c-01a	31.211086	s__Halioglobus sp024234735	37.685028
+						o__LD1-PB3_A	5.2971888	f__CAIVKH01	5.2971888	g__CAISIP01	5.6228704	s__	41.043709500000006
+						o__Rhizobiales	11.2855425	f__Hyphomicrobiaceae	11.2855425	g__JACKPT01	5.2971888	s__CAISIP01 sp024236015	5.6228704
+						o__JAAEPA01	9.8326235	f__JAAEPA01	9.8326235	g__JAEUMD01	11.2855425	s__JACKPT01 sp024233345	5.2971888
+										g__JAAEPA01	9.8326235	s__JAEUMD01 sp020638055	11.2855425

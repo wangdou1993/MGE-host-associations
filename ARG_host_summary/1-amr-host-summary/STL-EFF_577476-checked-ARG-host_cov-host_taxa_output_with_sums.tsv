@@ -1,0 +1,24 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	392.41064149999994	p__Campylobacterota	7.641061	c__Campylobacteria	7.641061	o__Campylobacterales	7.641061	f__Sulfurospirillaceae	7.641061	g__Sulfurospirillum	7.641061	s__Sulfurospirillum sp001548035	7.641061
+		p__Pseudomonadota	198.4478087	c__Gammaproteobacteria	195.2595059	o__Burkholderiales	70.6198035	f__Rhodocyclaceae	13.1615556	g__	20.6316843	s__	110.2271231
+		p__Bacteroidota	21.5470032	c__Bacteroidia	21.5470032	o__Pseudomonadales	73.4695985	f__Burkholderiaceae_B	40.9653066	g__Rubrivivax_A	8.351792	s__Rubrivivax_A sp019635285	8.351792
+		p__Actinomycetota	160.99860460000002	c__Actinomycetia	160.99860460000002	o__Bacteroidales	8.2011752	f__Pseudomonadaceae	66.4730665	g__Pseudomonas_E	66.4730665	s__Pseudomonas_E mandelii	60.45951
+		p__Bacillota_C	3.776164	c__Alphaproteobacteria	3.1883028	o__Enterobacterales_A	13.094265	f__Bacteroidaceae	8.2011752	g__Phocaeicola	5.2374215	s__Phocaeicola vulgatus	5.2374215
+				c__Negativicutes	3.776164	o__Mycobacteriales	160.99860460000002	f__Aeromonadaceae	13.094265	g__Aeromonas	13.094265	s__Pseudomonas_E agarici	6.0135565
+						o__Thiotrichales	3.1016164	f__Mycobacteriaceae	160.99860460000002	g__Mycobacterium	160.99860460000002	s__Aeromonas caviae	13.094265
+						o__Legionellales	21.383041	f__Burkholderiaceae_C	5.9321976	g__Thiothrix	3.1016164	s__Mycobacterium sp020438785	103.39689
+						o__Chitinophagales	8.667439	f__Thiotrichaceae	3.1016164	g__Rhodoferax_C	5.8807106	s__Mycobacterium insubricum	24.854836
+						o__Flavobacteriales	4.678389	f__Legionellaceae	21.383041	g__Legionella_A	21.383041	s__Piscinibacter sp017983795	15.732979
+						o__Francisellales	2.3438745	f__Saprospiraceae	8.667439	g__Piscinibacter	15.732979	s__OLB8 sp018057925	8.667439
+						o__Paracaedibacterales	3.1883028	f__Flavobacteriaceae	4.678389	g__OLB8	8.667439	s__Sterolibacterium sp018062105	3.5770202
+						o__Xanthomonadales	11.247307	f__Francisellaceae	2.3438745	g__Sterolibacterium	3.5770202	s__Caedibacter taeniospiralis	2.3438745
+						o__Selenomonadales	3.776164	f__CAITNM01	3.1883028	g__Flavobacterium	4.678389	s__Ottowia sp018240925	10.999825
+								f__Rhodanobacteraceae	11.247307	g__Caedibacter	2.3438745	s__Prevotella sp018054505	2.9637537
+								f__Moraxellaceae	6.996532	g__Zoogloea	6.1323557	s__Nitrosomonas sp008015595	5.073131
+								f__Burkholderiaceae	5.4876127	g__Ottowia	10.999825	s__Megamonas funiformis	3.776164
+								f__Nitrosomonadaceae	5.073131	g__CAITNM01	3.1883028		
+								f__Selenomonadaceae	3.776164	g__Prevotella	2.9637537		
+										g__JAGLBJ01	6.996532		
+										g__JADYYQ01	5.4876127		
+										g__Nitrosomonas	5.073131		
+										g__Megamonas	3.776164		

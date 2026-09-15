@@ -1,0 +1,11 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	340.9997927	p__Desulfobacterota	7.5336165	c__DSM-4660	7.5336165	o__Desulfatiglandales	7.5336165	f__Desulfatiglandaceae	7.5336165	g__JAFGMQ01	7.5336165	s__	64.8584883
+d__Archaea	2.8007803	p__Bacillota_A	14.9836402	c__Clostridia	14.9836402	o__Christensenellales	4.8992724	f__CAG-138	4.8992724	g__	4.8992724	s__Ruminococcus flavefaciens_H	4.1127844
+		p__Pseudomonadota	69.318871	c__Gammaproteobacteria	59.530857	o__Oscillospirales	10.084367799999999	f__Ruminococcaceae	10.084367799999999	g__UMGS1668	5.9715834	s__Ottowia sp024235955	19.05508
+		p__Chloroflexota	249.163665	c__Anaerolineae	249.163665	o__Burkholderiales	38.05106	f__Burkholderiaceae_B	38.05106	g__Ruminococcus	4.1127844	s__Ottowia sp018240925	18.99598
+		p__Methanobacteriota_B	2.8007803	c__Thermococci	2.8007803	o__Promineofilales	233.97746	f__Promineofilaceae	233.97746	g__Ottowia	38.05106	s__JAMLHW01 sp023954475	233.97746
+				c__Alphaproteobacteria	9.788014	o__Methanofastidiosales	2.8007803	f__Methanofastidiosaceae	2.8007803	g__JAMLHW01	233.97746	s__Methanofastidiosum sp013178285	2.8007803
+						o__Rhodobacterales	9.788014	f__Rhodobacteraceae	9.788014	g__Methanofastidiosum	2.8007803		
+						o__Anaerolineales	15.186205	f__Anaerolineaceae	15.186205	g__Paracoccus	9.788014		
+						o__JAAEPA01	21.479797	f__JAAEPA01	21.479797	g__UBA6107	15.186205		
+										g__JAAEPA01	21.479797		

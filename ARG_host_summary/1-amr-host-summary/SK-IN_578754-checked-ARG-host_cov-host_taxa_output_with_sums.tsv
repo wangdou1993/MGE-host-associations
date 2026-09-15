@@ -1,0 +1,21 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	422.6045686	p__Bacteroidota	95.53562000000001	c__Bacteroidia	95.53562000000001	o__Bacteroidales	73.22813400000001	f__Bacteroidaceae	36.90686	g__Prevotella	36.90686	s__Prevotella sp018054505	36.90686
+		p__Pseudomonadota	175.168336	c__Gammaproteobacteria	175.168336	o__Burkholderiales	120.2277444	f__Burkholderiaceae_B	80.6114284	g__Brachymonas	30.3716924	s__Brachymonas sp017993135	4.6534824
+		p__Actinomycetota	27.189606599999998	c__Actinomycetia	27.189606599999998	o__Mycobacteriales	5.3883886	f__Neisseriaceae	17.491877000000002	g__Neisseria	17.491877000000002	s__	95.90447359999999
+		p__Bacillota_C	30.88196	c__Negativicutes	30.88196	o__Flavobacteriales	22.307486	f__Mycobacteriaceae	5.3883886	g__Mycobacterium	5.3883886	s__Mycobacterium mageritense	5.3883886
+		p__Bacillota_A	62.736051	c__Clostridia	62.736051	o__Propionibacteriales	21.801218	f__Chitinibacteraceae	5.54265	g__Ottowia	18.534418	s__Ottowia beijingensis	18.534418
+		p__Campylobacterota	31.092995	c__Campylobacteria	31.092995	o__Selenomonadales	30.88196	f__Weeksellaceae	22.307486	g__Formivibrio	5.54265	s__Neisseria suis	12.295191
+						o__Thiotrichales	4.0772166	f__Propionibacteriaceae	21.801218	g__JABCPE02	12.998435	s__Micropruina glycogenica	21.801218
+						o__Lachnospirales	45.793146	f__Tannerellaceae	36.321274	g__Micropruina	21.801218	s__Epilithonimonas vandammei	9.309051
+						o__Pseudomonadales	50.863375000000005	f__JAGPMH01	30.88196	g__Epilithonimonas	9.309051	s__Macellibacteroides fermentans	36.321274
+						o__Peptostreptococcales	16.942905	f__Thiotrichaceae	4.0772166	g__Macellibacteroides	36.321274	s__JAGPMH01 sp018052945	30.88196
+						o__Campylobacterales	31.092995	f__Aquaspirillaceae	16.581789	g__JAGPMH01	30.88196	s__Laribacter hongkongensis	16.581789
+								f__Lachnospiraceae	45.793146	g__	4.0772166	s__Agathobacter rectalis	35.36929
+								f__Moraxellaceae	50.863375000000005	g__Laribacter	16.581789	s__Lachnospira eligens_A	10.423856
+								f__Filifactoraceae	16.942905	g__Agathobacter	35.36929	s__Acetoanaerobium noterae	16.942905
+								f__Sulfurospirillaceae	31.092995	g__Moraxella_A	36.384168	s__Sulfurospirillum sp001548035	31.092995
+										g__Lachnospira	10.423856	s__Brachymonas sp018054915	19.074759
+										g__Acetoanaerobium	16.942905	s__Brachymonas sp017996515	6.643451
+										g__Sulfurospirillum	31.092995	s__Moraxella porci	14.479207
+										g__Acidovorax_C	31.705318		
+										g__Moraxella	14.479207		

@@ -1,0 +1,21 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	300.4670965	p__Actinomycetota	14.975817	c__Actinomycetia	14.975817	o__Mycobacteriales	14.975817	f__Mycobacteriaceae	14.975817	g__Mycobacterium	14.975817	s__Mycobacterium mageritense	14.975817
+		p__Bacteroidota	65.097996	c__Bacteroidia	65.097996	o__Flavobacteriales	13.301011	f__Weeksellaceae	13.301011	g__Epilithonimonas	13.301011	s__Epilithonimonas vandammei	13.301011
+		p__Pseudomonadota	180.53203100000002	c__Gammaproteobacteria	161.9639345	o__Enterobacterales_A	42.03565	f__Aeromonadaceae	42.03565	g__Aeromonas	42.03565	s__Aeromonas caviae	42.03565
+		p__Bacillota_A	24.9578535	c__Clostridia	24.9578535	o__Bacteroidales	51.796985	f__Tannerellaceae	8.729218	g__Macellibacteroides	8.729218	s__Macellibacteroides fermentans	8.729218
+		p__Bacillota_C	14.903399	c__Alphaproteobacteria	18.5680965	o__Saccharofermentanales	14.906801	f__Saccharofermentanaceae	14.906801	g__Saccharofermentans	14.906801	s__Saccharofermentans sp022484595	14.906801
+				c__Negativicutes	14.903399	o__Pseudomonadales	31.076277	f__Pseudomonadaceae	25.978107	g__Pseudomonas_E	25.978107	s__Pseudomonas_E alcaligenes	25.978107
+						o__Oscillospirales	4.128931	f__Ruminococcaceae	4.128931	g__Ruminococcus_D	4.128931	s__Ruminococcus_D bicirculans	4.128931
+						o__Lachnospirales	5.9221215	f__Bacteroidaceae	43.067767	g__Phocaeicola	26.771317	s__Phocaeicola vulgatus	26.771317
+						o__Burkholderiales	80.873818	f__Lachnospiraceae	5.9221215	g__Lachnospira	5.9221215	s__Lachnospira eligens_A	5.9221215
+						o__Rhodobacterales	13.4110725	f__Burkholderiaceae	9.360289	g__CTSOIL-112	9.360289	s__	33.0265555
+						o__Rhizobiales	5.157024	f__Burkholderiaceae_B	71.513529	g__Brachymonas	15.826567	s__Brachymonas sp018054915	15.826567
+						o__Selenomonadales	14.903399	f__Rhodobacteraceae	13.4110725	g__Giesbergeria	28.090355	s__Giesbergeria sp010020825	28.090355
+						o__Xanthomonadales	7.9781895	f__Xanthobacteraceae	5.157024	g__Gemmobacter	7.0411515	s__Megamonas funiformis	14.903399
+								f__Moraxellaceae	5.09817	g__Amaricoccus	6.369921	s__Pseudoxanthomonas_A mexicana	7.9781895
+								f__Selenomonadaceae	14.903399	g__P52-10	5.157024	s__Sphaerotilus sulfidivorans	27.596607
+								f__Xanthomonadaceae	7.9781895	g__Psychrobacter	5.09817	s__Bacteroides uniformis	16.29645
+										g__Megamonas	14.903399		
+										g__Pseudoxanthomonas_A	7.9781895		
+										g__Sphaerotilus	27.596607		
+										g__Bacteroides	16.29645		

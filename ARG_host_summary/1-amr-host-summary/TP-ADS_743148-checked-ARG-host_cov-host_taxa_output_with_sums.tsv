@@ -1,0 +1,12 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	361.039159	p__Acidobacteriota	4.436751	c__UBA4820	4.436751	o__UBA4820	4.436751	f__UBA4820	4.436751	g__	12.450477	s__	297.495503
+		p__Bacillota_A	32.501111	c__Clostridia	32.501111	o__Saccharofermentanales	11.215249	f__Saccharofermentanaceae	11.215249	g__Saccharofermentans	11.215249	s__Bacteroides_I graminisolvens	5.967759
+		p__Bacteroidota	39.211053	c__Bacteroidia	39.211053	o__Oscillospirales	21.285862	f__Oscillospiraceae	12.477645	g__UBA2658	12.477645	s__Ottowia sp024235955	24.332603
+		p__Actinomycetota	224.97429599999998	c__Actinomycetia	224.97429599999998	o__Bacteroidales	39.211053	f__Acutalibacteraceae	8.808217	g__DTU089	8.808217	s__UBA1064 sp002316235	33.243294
+		p__Pseudomonadota	46.598735	c__Gammaproteobacteria	32.346329	o__Mycobacteriales	224.97429599999998	f__Bacteroidaceae	5.967759	g__Bacteroides_I	5.967759		
+		p__Spirochaetota	13.317213	c__Alphaproteobacteria	14.252406	o__Burkholderiales	24.332603	f__Mycobacteriaceae	224.97429599999998	g__Mycobacterium	224.97429599999998		
+				c__UBA4802	13.317213	o__Rhodobacterales	14.252406	f__Burkholderiaceae_B	24.332603	g__Ottowia	24.332603		
+						o__Chromatiales	8.013726	f__Rhodobacteraceae	14.252406	g__Paracoccus	14.252406		
+						o__UBA4802	13.317213	f__Tenuifilaceae	33.243294	g__UBA1064	33.243294		
+								f__Chromatiaceae	8.013726	g__JAKJGA01	13.317213		
+								f__JAFGJZ01	13.317213				

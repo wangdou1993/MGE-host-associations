@@ -1,0 +1,29 @@
+Element_1	Sum_1	Element_2	Sum_2	Element_3	Sum_3	Element_4	Sum_4	Element_5	Sum_5	Element_6	Sum_6	Element_7	Sum_7
+d__Bacteria	320.34551039999997	p__Actinomycetota	66.14103349999999	c__Actinomycetia	66.14103349999999	o__Mycobacteriales	66.14103349999999	f__Mycobacteriaceae	66.14103349999999	g__Mycobacterium	66.14103349999999	s__Mycobacterium mageritense	10.7210655
+		p__Pseudomonadota	80.9191509	c__Gammaproteobacteria	55.4712418	o__Burkholderiales	44.4821568	f__Burkholderiaceae_B	39.0939494	g__JAABQG01	14.322906	s__Mycobacterium sp020438785	55.419968
+		p__Bacteroidota	116.9039585	c__Alphaproteobacteria	25.4479091	o__Rhodobacterales	9.827922000000001	f__Rhodobacteraceae	9.827922000000001	g__Paracoccus	5.8472	s__	95.4413043
+		p__Bacillota_A	19.8485225	c__Bacteroidia	116.9039585	o__Bacteroidales	114.4317266	f__Tenuifilaceae	98.99359	g__UBA1064	98.99359	s__UBA1064 sp002316235	98.99359
+		p__OLB16	4.3142014	c__Clostridia	19.8485225	o__Christensenellales	5.527125	f__CAG-74	5.527125	g__Limiplasma	5.527125	s__Limiplasma sp023395615	5.527125
+		p__Cyanobacteriota	3.3132343	c__OLB16	4.3142014	o__Peptostreptococcales	2.7175214	f__Anaerovoracaceae	2.7175214	g__Lentihominibacter	2.7175214	s__Rubrivivax_A sp019635285	4.526756
+		p__Bacillota_B	19.148507	c__Vampirovibrionia	3.3132343	o__SURF-12	4.3142014	f__SURF-12	4.3142014	g__Rubrivivax_A	4.526756	s__Sedimentibacter sp003483345	7.5245266
+		p__Planctomycetota	1.8328713	c__Syntrophomonadia	19.148507	o__Obscuribacterales	3.3132343	f__Obscuribacteraceae	3.3132343	g__JABLXU01	4.3142014	s__UBA1368 sp002305965	7.819028
+		p__Atribacterota	2.7983806	c__Phycisphaerae	1.8328713	o__Tissierellales	7.5245266	f__Sedimentibacteraceae	7.5245266	g__QKMZ01	3.3132343	s__PHAA01 sp022706565	11.329479
+		p__Desulfobacterota	5.1256504	c__Atribacteria	2.7983806	o__Lachnospirales	4.0793495	f__Lachnospiraceae	4.0793495	g__Sedimentibacter	7.5245266	s__Giesbergeria sp010020825	6.8159914
+				c__Syntrophia	5.1256504	o__Syntrophomonadales	19.148507	f__Tannerellaceae	2.347802	g__Porcincola	4.0793495	s__Ottowia sp020848515	13.428296
+						o__Sphingomonadales	15.6199871	f__Syntrophomonadaceae	19.148507	g__Parabacteroides	2.347802	s__Atribacter sp002069605	2.7983806
+						o__UBA1845	1.8328713	f__Sphingomonadaceae	15.6199871	g__UBA1368	7.819028		
+						o__Atribacterales	2.7983806	f__PWPN01	1.8328713	g__PHAA01	11.329479		
+						o__Chitinophagales	2.4722319	f__Atribacteraceae	2.7983806	g__Aquisediminimonas	4.8487663		
+						o__Competibacterales	10.989085	f__Saprospiraceae	2.4722319	g__Giesbergeria	6.8159914		
+						o__Syntrophales	5.1256504	f__Paludibacteraceae	7.956052	g__Sphingobium	8.385435		
+								f__CG2-30-32-10	5.1342826	g__Ottowia	13.428296		
+								f__Competibacteraceae	10.989085	g__Novosphingobium	2.3857858		
+								f__Rhodocyclaceae	5.3882074	g__	1.8328713		
+								f__UBA8958	5.1256504	g__Atribacter	2.7983806		
+										g__UBA3362	2.4722319		
+										g__QY30	3.980722		
+										g__UPXZ01	7.956052		
+										g__CAINEZ01	5.1342826		
+										g__Competibacter_A	10.989085		
+										g__Azospira_A	5.3882074		
+										g__UBA8958	5.1256504		
